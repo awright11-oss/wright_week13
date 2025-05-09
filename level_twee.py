@@ -26,7 +26,7 @@ def func_findmax(numbers):
 
 234
 
-
+#seem to be getting incorrect answers. What do you think is wrong here?
 input1 = input("What's the first input? ")
 input2 = input("What's the next input? ")
 input3 = input("What's the next input? ")
